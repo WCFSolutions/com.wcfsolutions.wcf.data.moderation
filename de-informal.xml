@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com/XSD/language.xsd" languagecode="de-informal">
+	<category name="wcf.moderation">
+		<item name="wcf.moderation"><![CDATA[Moderation]]></item>
+		<item name="wcf.moderation.menu.link.overview"><![CDATA[Übersicht]]></item>
+		<item name="wcf.moderation.outstandingModerations"><![CDATA[{#$outstandingModerations} ausstehende Moderation{if $outstandingModerations != 1}en{/if}]]></item>
+		<item name="wcf.moderation.overview"><![CDATA[Übersicht]]></item>
+	</category>
+</language>

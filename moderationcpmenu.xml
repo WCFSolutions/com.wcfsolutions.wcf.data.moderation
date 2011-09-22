@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.wcfsolutions.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.wcfsolutions.com/XSD/moderationcp-menu.xsd">
+	<import>	
+		<moderationmenuitem name="wcf.moderation.menu.link.overview">
+			<link><![CDATA[index.php?page=ModerationCPOverview]]></link>
+			<icon>moderationcpM.png</icon>
+			<showorder>1</showorder>
+		</moderationmenuitem>
+	</import>
+</data>
